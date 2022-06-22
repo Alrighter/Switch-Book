@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\SwitchBook\\SwitchBook\\SwitchBook.csproj": {}
+    "E:\\repos\\Switch-Book\\SwitchBook\\SwitchBook.csproj": {}
   },
   "projects": {
-    "D:\\repos\\SwitchBook\\SwitchBook\\SwitchBook.csproj": {
+    "E:\\repos\\Switch-Book\\SwitchBook\\SwitchBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\SwitchBook\\SwitchBook\\SwitchBook.csproj",
+        "projectUniqueName": "E:\\repos\\Switch-Book\\SwitchBook\\SwitchBook.csproj",
         "projectName": "SwitchBook",
-        "projectPath": "D:\\repos\\SwitchBook\\SwitchBook\\SwitchBook.csproj",
+        "projectPath": "E:\\repos\\Switch-Book\\SwitchBook\\SwitchBook.csproj",
         "packagesPath": "C:\\Users\\roma2\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\SwitchBook\\SwitchBook\\obj\\",
+        "outputPath": "E:\\repos\\Switch-Book\\SwitchBook\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

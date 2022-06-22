@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LJsicgP+rMezBgjbBRXzalEX0RlSzEwnlMRDtk7iMJTkQEcVSK//iIBRVQVwTMdC2KoifDQjOnd58HB6T89Iqw==",
+  "dgSpecHash": "BJFf3n6Fo+xpCxR1x2pJrNlxoUAu4CsB5IbyuJ8tzsckn7lgwx2/iK7reMN+39jq9Kn6Udy83+jKOhq8EBIj6Q==",
   "success": true,
-  "projectFilePath": "D:\\repos\\SwitchBook\\SwitchBook\\SwitchBook.csproj",
+  "projectFilePath": "E:\\repos\\Switch-Book\\SwitchBook\\SwitchBook.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\roma2\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\roma2\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.17\\microsoft.aspnetcore.cryptography.internal.5.0.17.nupkg.sha512",

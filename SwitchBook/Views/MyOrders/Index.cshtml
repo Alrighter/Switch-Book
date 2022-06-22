@@ -174,9 +174,21 @@
                             <h6>Віддаєте</h6>
                         </div>
                     </div>
+                    <div class="history_info">
+                        <hr/>
+                        @if (@Model.History.Orders[i].IsConfirm)
+                        {
+                            <h5>Пропозицію прийнято.</h5>
+                        }
+                        else
+                        {
+                            <h5>Пропозицію Відхилено.</h5>
+                        }
+                        <a href="/MyOrders/OrderDetails?OrderId=@Model.History.Orders[i].Id" class="btn btn_book">Деталі</a>
+                    </div>
                 </div>
+                
             </div>
-
         }
         </div>
     </div>

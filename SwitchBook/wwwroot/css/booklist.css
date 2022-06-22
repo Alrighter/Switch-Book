@@ -16,7 +16,6 @@
     width: 100%;
     max-width: 400px;   
 }
-
 .avaliable_books {
     display: flex;
     flex-direction: row;
@@ -150,9 +149,7 @@
     max-height: 80vh;
     overflow-y: scroll;
     display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-
+    flex-direction: column-reverse;
 }
 .trade_offers_text {
     display: flex;
@@ -168,6 +165,9 @@
 }
 .trade_offers_text .avaliable_book {
     width: 190px;
+}
+.history_info {
+    width: 100%;
 }
 
 /* trade offer details */
