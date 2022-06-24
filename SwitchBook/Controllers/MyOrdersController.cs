@@ -38,8 +38,6 @@ namespace SwitchBook.Controllers
 
             }
 
-            //var b1 = await _db.Books.Where(x=>orderRequest.Select(b=>b.FirstBookId).Contains(x.Id)).ToListAsync();
-            //var b2 = await _db.Books.Where(x=>orderRequest.Select(b=>b.LastBookId).Contains(x.Id)).ToListAsync();
             var orderHistory = await _db.Orders.Where(x =>( myBooks.Select(b => b.Id).Contains(x.FirstBookId) || myBooks.Select(b => b.Id).Contains(x.LastBookId) )&& x.IsConfirm == true).ToListAsync();
             var b1H = new List<Book>();
             var b2H = new List<Book>();
